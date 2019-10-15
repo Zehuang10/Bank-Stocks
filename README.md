@@ -1,10 +1,6 @@
 # Bank-Stocks
 # Finance Data Project 
 
-*Note: [You'll need to install pandas-datareader for this to work!](https://github.com/pydata/pandas-datareader) Pandas datareader allows you to [read stock information directly from the internet](http://pandas.pydata.org/pandas-docs/stable/remote_data.html) Use these links for install guidance (**pip install pandas-datareader**), or just follow along with the video lecture.*
-
-### The Imports
-
     from pandas_datareader import data, wb
     import pandas as pd
     import numpy as np
